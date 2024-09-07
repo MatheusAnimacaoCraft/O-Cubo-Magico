@@ -1,1 +1,1 @@
-# O-Cubo-M-gico
+# O-Cubo-Magico
