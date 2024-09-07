@@ -18,6 +18,7 @@ function pesquisar() {
     let resultados = "";
     let titulo = "";
     let descricao = "";
+    let nivelDeDesafio = "";
   
     // Itera sobre cada dado no array 'dados'
     for (let dado of dados) {
@@ -30,6 +31,7 @@ function pesquisar() {
       <div class="item-resultado">
         <h2><a href=${dado.link} target="_blank">${dado.titulo}</a></h2>
         <p class="descricao-meta">${dado.descricao}</p>
+        <p class="nivelDeDesafio-meta">${dado.nivelDeDesafio}</p>
         <a href=${dado.link} target="_blank">Mais informações</a>
       </div>
     `;
