@@ -57,5 +57,20 @@ let dados = [
       descricao: "Um cubo mágico com forma octaédrica, com 6 peças em cada face.",
       nivelDeDesafio: "Médio",
       link: "https://pt.wikipedia.org/wiki/Skewb"
-  }
+  },
+  {
+    titulo: "Moyu",
+    descricao: "A Moyu é uma das principais marcas de cubos mágicos, conhecida por seus produtos de alta qualidade e design inovador. A marca oferece uma ampla variedade de cubos, desde os modelos básicos até os profissionais, com diferentes sistemas de magnetismo e mecanismos internos.",
+    link: "https://www.chesscuber.com.br/marca/moyu.html"
+},
+{
+    titulo: "Gan",
+    descricao: "A Gan é outra marca líder no mercado de cubos mágicos, reconhecida por seus cubos rápidos e precisos. A marca investe em tecnologias avançadas para criar cubos com rotação suave e consistente, além de oferecer uma grande variedade de cores e designs.",
+    link: "https://www.gancube.com/" // Adapte o link para a página oficial da Gan em português, se houver
+},
+{
+    titulo: "QiYi",
+    descricao: "A QiYi é uma marca chinesa que se destaca pela produção de cubos mágicos com excelente custo-benefício. Seus produtos são conhecidos por sua durabilidade e desempenho, sendo uma ótima opção para iniciantes e entusiastas.",
+    link: "https://www.casadocubo.com.br/marcas/qiyi1/?srsltid=AfmBOornCzCY4qPKvmJ95e2Gg2DDAridXqnpWSd8Uo3OQN99O1ihfCLG&mpage=2" // Adapte o link para a página oficial da QiYi em português, se houver
+}
 ];
