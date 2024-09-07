@@ -12,6 +12,10 @@ body {
     height: 100vh; /* Preenche a altura total da viewport */
     margin: 0;
     padding: 0;
+    background-image: url("img/cubo.jpg");
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
 }
 
 
